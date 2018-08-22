@@ -76,4 +76,5 @@ Edit the ddclient.conf file found in your /config volume. This config file has m
 
 ## Versions
 
++ **22.08.18:** Rebase to alpine linux 3.8.
 + **10.08.18:** Initial release.
