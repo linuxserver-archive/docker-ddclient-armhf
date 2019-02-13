@@ -1,0 +1,20 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/ddclient                 *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/ddclient   *
+*                                                    *
+*   https://github.com/linuxserver/docker-ddclient   *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************'
